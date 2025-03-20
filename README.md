@@ -2,7 +2,7 @@
 
 link to repository --[https://github.com/JEEEVANPADMASHALI/shoppyglobe-backend.git](https://github.com/JEEEVANPADMASHALI/shoppyglobe-backend.git)
 ## **Introduction**  
-this backend project helps in handle the backend operations of the shoppyglobed app 
+This backend project helps in handling the backend operations of the shoppyglobed app 
 ---
 
 ## **Setup Instructions**  
